@@ -1,5 +1,6 @@
-public/
-
-assets/
-
-.idea/
+# Generated files by hugo
+/public/
+/.idea/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
