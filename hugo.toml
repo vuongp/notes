@@ -1,0 +1,4 @@
+baseURL = 'https://notes.vuong.work/'
+languageCode = 'en-us'
+title = 'Notes by Vu'
+theme = 'hugo-book'

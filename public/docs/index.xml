@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Notes by Vu</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Docs on Notes by Vu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jul 2024 14:46:54 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gyudon</title>
+      <link>http://localhost:1313/docs/recipes/gyudon/</link>
+      <pubDate>Tue, 02 Jul 2024 14:46:54 +0200</pubDate>
+      <guid>http://localhost:1313/docs/recipes/gyudon/</guid>
+      <description>Gyudon # Ingredients # 1 Onion Thinly sliced beef (fattier is better) Ginger Konbu Sugar Sake Optional: Egg Soy sauce Prep # Slice onion Slice beef Slice ginger in thin strips Make Konbu dashi Cook # Oil in pan, low heat Add ginger (cook until translucent) Add onion (Medium heat) Add salt Add konbu dashi Add sugar 20g Boil 5min Add Beef Sake Remove scum Add soy sauce Cook/simmer 10-15 min Sources # https://www.</description>
+    </item>
+  </channel>
+</rss>
