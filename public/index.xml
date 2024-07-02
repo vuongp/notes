@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notes by Vu</title>
+    <title>Introduction on Notes by Vu</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Notes by Vu</description>
+    <description>Recent content in Introduction on Notes by Vu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2024 14:46:54 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 15:06:46 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Japan Tips</title>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/random/japan-tips/</guid>
       <description>Tokyo # Mutekiya: Ramen Restaurant Shibuya crossroad Mount fuji Onsen?: Hot springs Harajuku street: Shopping street Tsukiji Fish market Akihabara: (Weeb town) Mount Takao (Als je wilt hiken en lopen) Ipuddo Torikizoku Osaka # Dotonburi Restaurant m There is a famous takoyako place somewhere O_O Kyoto # Monkey mountain A Hill full of &amp;ldquo;wild&amp;rdquo; monkeys Bamboo Forest Inari Shrine Food to try # Yakitori Ramen Tsukemen Dry ramen to dip Yakiniku Japanese bbq Takoyako Octopus balls Dango Okinomiyaki Sushi Chuutoro Otoro Anago Tempura Unagi don Onigiri (7 eleven) Karaage Shabu shabu Sukiyaki Weird stuff # Manga cafe Maid Cafe Cat cafes (Or other animals) Pokemon center?</description>
+    </item>
+    <item>
+      <title>Japanese Curry</title>
+      <link>http://localhost:1313/docs/recipes/japanese-curry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/recipes/japanese-curry/</guid>
+      <description>Japanese Curry # Ingredients: # ½ lb (about 2,2 kg) beef 2 onions 2 carrots 3 potatoes 1 tbsp oil 3 ½ cups water (840ml) or see the package for the amount of water 1 box curry sauce mix 1 tbsp ketchup 1 tbsp worchester sauce 1 tbsp mashed apple 1 tbsp soy sauce 1tsp curry powder Instructions: # Cut vegetables into bite size pieces. Heat oil and brown meat in a pot, then take meat out.</description>
     </item>
     <item>
       <title>Gyudon</title>

@@ -1,8 +1,10 @@
----
++++
 title = 'Gyudon'
 date = 2024-07-02T14:46:54+02:00
 draft = false
----
+# Set type to 'docs' if you want to render page outside of configured section or if you render section other than 'docs'
+type = 'docs'
++++
 
 # Gyudon
 ## Ingredients
