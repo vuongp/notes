@@ -1,8 +1,8 @@
-+++
+---
 title = 'Gyudon'
 date = 2024-07-02T14:46:54+02:00
 draft = false
-+++
+---
 
 # Gyudon
 ## Ingredients
