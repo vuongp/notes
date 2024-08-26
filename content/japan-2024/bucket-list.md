@@ -21,3 +21,9 @@ weight: 1
 - [ ] Bar hopping
 
 ## Food
+- 
+
+## Possible places to explore or things
+- Miyajima - island?
+- Okonomiyaki city? in hiroshima
+- Japanese knives - Aritsugu in nishiki market kyoto
