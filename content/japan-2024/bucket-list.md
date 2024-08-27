@@ -27,3 +27,4 @@ weight: 1
 - Miyajima - island?
 - Okonomiyaki city? in hiroshima
 - Japanese knives - Aritsugu in nishiki market kyoto
+- Golden gai - Midnight diner experience!!
