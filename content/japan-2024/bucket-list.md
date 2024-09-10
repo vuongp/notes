@@ -16,6 +16,7 @@ weight: 1
 - [ ] Find favourite bar
 - [ ] Explore neighbourhoods
 - [ ] Find hidden gems and places
+- [ ] get kyoto furikake
 
 ## Activities
 - [ ] Bar hopping
