@@ -12,7 +12,7 @@ weight: 1
 
 ## Goals
 - [ ] Find spots to skate
-- [ ] Find spots to train/dance
+- [x] Find spots to train/dance
 - [ ] Find favourite bar
 - [ ] Explore neighbourhoods
 - [ ] Find hidden gems and places
@@ -21,11 +21,58 @@ weight: 1
 ## Activities
 - [ ] Bar hopping
 
-## Food
-- 
+# Japanese Dishes Checklist
 
-## Possible places to explore or things
-- Miyajima - island?
-- Okonomiyaki city? in hiroshima
-- Japanese knives - Aritsugu in nishiki market kyoto
-- Golden gai - Midnight diner experience!!
+## Sushi (寿司)
+- [x] **Chuutoro** (中トロ) - Medium fatty tuna
+- [x] **Otoro** (大トロ) - Fattiest part of tuna
+- [x] **Uni** (うに) - Sea urchin
+- [x] **Anago** (穴子) - Saltwater eel
+- [x] **Ikura** (イクラ) - Salmon roe
+- [x] **Ebi** (エビ) - Shrimp
+## Sashimi (刺身)
+- [x] **Maguro** (まぐろ) - Tuna
+- [ ] **Hamachi** (はまち) - Yellowtail
+- [ ] **Tako** (たこ) - Octopus
+- [ ] **Tai** (鯛) - Sea bream
+- [ ] **Hotate** (ホタテ) - Scallop
+- [ ] **Aji** (アジ) - Horse mackerel
+## Ramen (ラーメン)
+- [ ] **Shoyu Ramen** (醤油ラーメン) - Soy sauce-based broth
+- [ ] **Miso Ramen** (味噌ラーメン) - Miso-based broth
+- [ ] **Shio Ramen** (塩ラーメン) - Salt-based broth
+- [x] **Tonkotsu Ramen** (豚骨ラーメン) - Pork bone broth
+- [x] **Tsukemen** (つけ麺) - Dipping noodles
+
+## Udon (うどん)
+- [ ] **Kitsune Udon** (きつねうどん) - Udon with fried tofu
+- [ ] **Tempura Udon** (天ぷらうどん) - Udon with tempura
+- [ ] **Curry Udon** (カレーうどん) - Udon with curry broth
+## Tempura (天ぷら)
+- [x] **Ebi Tempura** (海老天ぷら) - Shrimp tempura
+- [x] **Kakiage** (かき揚げ) - Mixed vegetable tempura
+- [ ] **Anago Tempura** (穴子天ぷら) - Saltwater eel tempura
+## Donburi (丼)
+- [ ] **Katsu-don** (カツ丼) - Pork cutlet rice bowl
+- [x] **Gyudon** (牛丼) - Beef rice bowl
+- [x] **Oyakodon** (親子丼) - Chicken and egg rice bowl
+- [ ] **Unadon** (鰻丼) - Grilled eel rice bowl
+- [ ] **Tekka-don** (鉄火丼) - Tuna rice bowl
+- [ ] Ikura-don
+## Hot Pot (鍋)
+- [ ] **Shabu-shabu** (しゃぶしゃぶ)
+- [ ] **Sukiyaki** (すき焼き)
+- [ ] **Oden** (おでん)
+- [ ] **Yudofu** (湯豆腐)
+## Other Dishes
+- [x] **Takoyaki** (たこ焼き)
+- [x] **Okonomiyaki** (お好み焼き)
+- [ ] **Yakisoba** (焼きそば)
+- [x] **Onigiri** (おにぎり)
+- [ ] **Chawanmushi** (茶碗蒸し)
+- [ ] **Gyoza** (餃子)
+- [ ] **Kare Raisu** (カレーライス)
+- [ ] **Agedashi Tofu** (揚げ出し豆腐)
+- [x] **Natto** (納豆)
+- [ ] **Gyu katsu**
+- [ ] **Omu-rice**
