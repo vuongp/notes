@@ -34,6 +34,7 @@ weight: 1
     - Arakawa river
     - Tsukiji
     - Jimbocho
+    - Teamlab dingen
     - (Shin)-Otsuka? - Vietnamese buurt
 - Enoshima
 - Hakone!
@@ -48,6 +49,7 @@ weight: 1
     - https://youtube.com/shorts/hIGCV0ZrGBc?si=hQH3V0fNfEKvEtTu
 - Choi Oden
 - Udon Carbonara
+- Sushi zanmai
 
 # Calender
 ## Januari
