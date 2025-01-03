@@ -24,7 +24,6 @@ weight: 1
 - Die soort neppe onsen waar Dong was geweest
 - Tokyo
     - https://tokyocheapo.com/place/todoroki-valley
-    - Harlem - Hiphop club
     - Ruby room
     - Pokemon exibition
     - Square enix cafe
@@ -46,7 +45,8 @@ weight: 1
 - Marumo Pizza
 - Pizza Win (Akihabara 500 yen pizza)
 - Back fat ramen
-    - https://youtube.com/shorts/hIGCV0ZrGBc?si=hQH3V0fNfEKvEtTu
+  - https://maps.app.goo.gl/QWXN2ifqaeEgA7cr9
+  - https://youtube.com/shorts/hIGCV0ZrGBc?si=hQH3V0fNfEKvEtTu
 - Choi Oden
 - Udon Carbonara
 - Sushi zanmai
