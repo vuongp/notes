@@ -49,6 +49,12 @@ weight: 1
 - Udon Carbonara
 - Sushi zanmai
 
+# Shinji tokyo daytrips recommendation
+- Kiyosumi garden station
+- Near nippori staion boven ueno
+- Shibamata
+- Kawagoi over ikebukora?
+
 # Calender
 ## Januari
 - Meguro river tot 13 januari
