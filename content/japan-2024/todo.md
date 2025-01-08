@@ -40,8 +40,6 @@ weight: 1
 - Beppu?
 
 # Foods
-- Ramen
-    - Ebi ramen
 - Marumo Pizza
 - Pizza Win (Akihabara 500 yen pizza)
 - Back fat ramen
