@@ -34,17 +34,21 @@ weight: 1
     - [ ] Tsukiji
     - [ ] Jimbocho
     - [ ] Teamlab dingen
-    - [ ] (Shin)-Otsuka? - [ ] Vietnamese buurt
+    - [ ] (Shin)-Otsuka? Vietnamese buurt
 - [ ] Enoshima
 - [ ] Hakone!
 - [ ] Beppu?
+- [ ] capybara cafe
+- [ ] Owl cafe
+- [ ] Tokyo tower
+- [ ] Shibuya sky
 
 # Foods
 - [ ] Marumo Pizza
 - [ ] Pizza Win (Akihabara 500 yen pizza)
 - [ ] Back fat ramen
-  - [ ] https://maps.app.goo.gl/QWXN2ifqaeEgA7cr9
-  - [ ] https://youtube.com/shorts/hIGCV0ZrGBc?si=hQH3V0fNfEKvEtTu
+  - https://maps.app.goo.gl/QWXN2ifqaeEgA7cr9
+  - https://youtube.com/shorts/hIGCV0ZrGBc?si=hQH3V0fNfEKvEtTu
 - [x] Choi Oden
 - [ ] Udon Carbonara
 - [ ] Sushi zanmai
