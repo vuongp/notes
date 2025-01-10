@@ -42,6 +42,7 @@ weight: 1
 - [ ] Owl cafe
 - [ ] Tokyo tower
 - [ ] Shibuya sky
+- [ ] Disney sea
 
 # Foods
 - [ ] Marumo Pizza
