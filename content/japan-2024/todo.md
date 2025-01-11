@@ -32,7 +32,7 @@ weight: 1
     - [ ] Imperial palace
     - [ ] Arakawa river
     - [ ] Tsukiji
-    - [ ] Jimbocho
+    - [X] Jimbocho
     - [ ] Teamlab dingen
     - [ ] (Shin)-Otsuka? Vietnamese buurt
 - [ ] Enoshima
