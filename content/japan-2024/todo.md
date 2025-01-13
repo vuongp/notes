@@ -41,6 +41,7 @@ weight: 1
     - [ ] Tokyo tower
     - [ ] Shibuya sky
     - [ ] Disney sea
+    - [ ] Live houses!
 - [ ] Enoshima
 - [ ] Hakone!
 - [ ] Beppu?
