@@ -1,5 +1,5 @@
 ---
-title: "Japan Tips"
+title: "Japan Tips (OLD)"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
