@@ -14,16 +14,16 @@ Checked means tried out, it doesn't mean we've finished it.
 - [x] Kirby
 - [x] Felix the cat
 - [x] Zelda 1
-- [ ] Zelda 2
 - [x] Megaman 1
 - [x] Adventure Island
+- [x] Super Mario bros 3
+- [x] Dr Mario
+- [x] Battletoads
+- [x] Double dragon
+- [ ] Zelda 2
 - [ ] Metroid
-- [ ] Dr Mario
 - [ ] Jackie Chan
 - [ ] Dragon Warriors
 - [ ] Super Mario 1
-- [ ] Super Mario bros 3
 - [ ] TMNT
 - [ ] Ninja Crusaders
-- [ ] Battletoads
-- [ ] Double dragon

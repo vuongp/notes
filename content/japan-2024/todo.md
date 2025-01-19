@@ -10,7 +10,6 @@ weight: 1
 ---
 
 # Places and links
-- https://rubyroomtokyo.com/
 - https://www.reddit.com/r/Tokyo/comments/1gdq6qa/events_in_tokyo_this_week_meet_friends/
 - https://tokyocheapo.com/events/
 - https://et-stage.net/eventList.php
@@ -23,40 +22,40 @@ weight: 1
 
 - [ ] Hiromi Uehara
 - [ ] Die soort neppe onsen waar Dong was geweest
-- [ ] Tokyo
-    - [ ] https://tokyocheapo.com/place/todoroki-valley
-    - [ ] Ruby room
-    - [ ] Pokémon exhibition
-    - [ ] Square enix cafe
-    - [ ] Yoyogi park
-    - [ ] Ueno park
-    - [x] Imperial palace gardens
-    - [ ] Arakawa river
-    - [ ] Tsukiji
-    - [X] Jimbocho
-    - [ ] Teamlab dingen
-    - [ ] (Shin)-Otsuka? Vietnamese buurt
-    - [ ] Capybara cafe
-    - [ ] Owl cafe
-    - [ ] Tokyo tower
-    - [ ] Shibuya sky
-    - [ ] Disney sea
-    - [ ] Live houses!
+- Tokyo
+  - [x] Imperial palace gardens
+  - [x] Disney sea
+  - [X] Ruby room
+  - [X] Jimbocho
+  - [ ] https://tokyocheapo.com/place/todoroki-valley
+  - [ ] Pokémon exhibition
+  - [ ] Square enix cafe
+  - [ ] Yoyogi park
+  - [ ] Ueno park
+  - [ ] Arakawa river
+  - [ ] Tsukiji
+  - [ ] Teamlab dingen
+  - [ ] (Shin)-Otsuka? Vietnamese buurt
+  - [ ] Capybara cafe
+  - [ ] Owl cafe
+  - [ ] Tokyo tower
+  - [ ] Shibuya sky
+  - [ ] Live houses!
 - [ ] Enoshima
 - [ ] Hakone!
 - [ ] Beppu?
 
 # Foods
 
-- [ ] Marumo Pizza
 - [x] Pizza Win (Akihabara 500 yen pizza)
+- [x] Choi Oden
+- [x] Tenkaippin ramen
+- [ ] Marumo Pizza
 - [ ] Back fat ramen
     - https://maps.app.goo.gl/QWXN2ifqaeEgA7cr9
     - https://youtube.com/shorts/hIGCV0ZrGBc?si=hQH3V0fNfEKvEtTu
-- [x] Choi Oden
 - [ ] Udon Carbonara
 - [ ] Sushi zanmai
-- [ ] Tenkaippin ramen
 
 # Shinji tokyo daytrips recommendation
 
