@@ -28,7 +28,7 @@ weight: 1
   - [X] Ruby room
   - [X] Jimbocho
   - [ ] https://tokyocheapo.com/place/todoroki-valley
-  - [ ] Pokémon exhibition
+  - [X] Pokémon exhibition
   - [ ] Square enix cafe
   - [ ] Yoyogi park
   - [ ] Ueno park
