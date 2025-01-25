@@ -29,11 +29,11 @@ weight: 1
   - [X] Jimbocho
   - [ ] https://tokyocheapo.com/place/todoroki-valley
   - [X] Pokémon exhibition
-  - [ ] Square enix cafe
+  - [X] Square enix cafe
   - [ ] Yoyogi park
   - [ ] Ueno park
   - [ ] Arakawa river
-  - [ ] Tsukiji
+  - [X] Tsukiji
   - [ ] Teamlab dingen
   - [ ] (Shin)-Otsuka? Vietnamese buurt
   - [ ] Capybara cafe
@@ -55,7 +55,7 @@ weight: 1
     - https://maps.app.goo.gl/QWXN2ifqaeEgA7cr9
     - https://youtube.com/shorts/hIGCV0ZrGBc?si=hQH3V0fNfEKvEtTu
 - [ ] Udon Carbonara
-- [ ] Sushi zanmai
+- [X] Sushi zanmai
 
 # Shinji tokyo daytrips recommendation
 
