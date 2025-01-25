@@ -31,7 +31,7 @@ weight: 1
   - [X] Pokémon exhibition
   - [X] Square enix cafe
   - [ ] Yoyogi park
-  - [ ] Ueno park
+  - [x] Ueno park
   - [ ] Arakawa river
   - [X] Tsukiji
   - [ ] Teamlab dingen
@@ -60,7 +60,7 @@ weight: 1
 # Shinji tokyo daytrips recommendation
 
 - [x] Kiyosumi garden station
-- [ ] Near nippori staion boven ueno
+- [x] Near nippori staion boven ueno
 - [ ] Shibamata
 - [ ] Kawagoi over ikebukora?
 
