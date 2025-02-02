@@ -21,27 +21,27 @@ weight: 1
 # Bucketlist
 
 - [ ] Hiromi Uehara
-- [ ] Die soort neppe onsen waar Dong was geweest
+- [ ] Die soort neppe onsen waar Dong was geweest (Dogo onsen?)
 - Tokyo
   - [x] Imperial palace gardens
   - [x] Disney sea
   - [X] Ruby room
   - [X] Jimbocho
+  - [x] Pokémon exhibition
+  - [x] Square enix cafe
+  - [x] Yoyogi park
+  - [x] Tsukiji
+  - [x] Ueno park
+  - [x] Enoshima
+  - [x] Tokyo tower
   - [ ] https://tokyocheapo.com/place/todoroki-valley
-  - [ ] Pokémon exhibition
-  - [ ] Square enix cafe
-  - [ ] Yoyogi park
-  - [ ] Ueno park
   - [ ] Arakawa river
-  - [ ] Tsukiji
   - [ ] Teamlab dingen
   - [ ] (Shin)-Otsuka? Vietnamese buurt
   - [ ] Capybara cafe
   - [ ] Owl cafe
-  - [ ] Tokyo tower
   - [ ] Shibuya sky
   - [ ] Live houses!
-- [ ] Enoshima
 - [ ] Hakone!
 - [ ] Beppu?
 
@@ -50,17 +50,16 @@ weight: 1
 - [x] Pizza Win (Akihabara 500 yen pizza)
 - [x] Choi Oden
 - [x] Tenkaippin ramen
+- [x] Back fat ramen
+- [x] Sushi zanmai
+- [ ] Egg yolk buffet
 - [ ] Marumo Pizza
-- [ ] Back fat ramen
-    - https://maps.app.goo.gl/QWXN2ifqaeEgA7cr9
-    - https://youtube.com/shorts/hIGCV0ZrGBc?si=hQH3V0fNfEKvEtTu
-- [ ] Udon Carbonara
-- [ ] Sushi zanmai
+- [ ] Udon Carbonara?
 
 # Shinji tokyo daytrips recommendation
 
 - [x] Kiyosumi garden station
-- [ ] Near nippori staion boven ueno
+- [x] Near nippori staion boven ueno
 - [ ] Shibamata
 - [ ] Kawagoi over ikebukora?
 
