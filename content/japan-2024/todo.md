@@ -17,6 +17,10 @@ weight: 1
 - https://www.hiromiuehara.com/s/y01en/group/list?ima=0000&cd=tour
 - https://ra.co/events/jp/tokyo?page=4
 - https://iflyer.tv/listing/events
+- https://www.tokyogigguide.com/en/livehouses
+- https://www.reddit.com/r/Tokyo/comments/1d5b4qb/tokyo_recommendations_thread_live_music_venues/
+- https://www.reddit.com/r/JapanTravel/comments/14sum76/how_to_access_live_music_in_japan_and_why_it/
+- https://www.reddit.com/r/BocchiTheRock/comments/zl75ni/japanese_live_houses/
 
 # Bucketlist
 
