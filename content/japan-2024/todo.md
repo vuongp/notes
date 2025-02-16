@@ -38,7 +38,7 @@ weight: 1
   - [x] Ueno park
   - [x] Enoshima
   - [x] Tokyo tower
-  - [ ] https://tokyocheapo.com/place/todoroki-valley
+  - [x] https://tokyocheapo.com/place/todoroki-valley
   - [ ] Arakawa river
   - [ ] Teamlab dingen
   - [ ] (Shin)-Otsuka? Vietnamese buurt
@@ -56,6 +56,7 @@ weight: 1
 - [x] Tenkaippin ramen
 - [x] Back fat ramen
 - [x] Sushi zanmai
+- [x] namino ikura
 - [ ] Egg yolk buffet
 - [ ] Marumo Pizza
 - [ ] Udon Carbonara?
@@ -65,7 +66,7 @@ weight: 1
 - [x] Kiyosumi garden station
 - [x] Near nippori staion boven ueno
 - [ ] Shibamata
-- [ ] Kawagoi over ikebukora?
+- [ ] Kawagoe
 
 # Calender
 
